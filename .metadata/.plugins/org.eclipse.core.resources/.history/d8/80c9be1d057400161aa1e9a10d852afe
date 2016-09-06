@@ -1,0 +1,13 @@
+/**
+ * 
+ */
+
+/**
+ * @author APCS1 Silvia Zou
+ *
+ */
+public class Calculate {
+	public static int square(int integer){
+		return integer * integer;
+	}
+}
