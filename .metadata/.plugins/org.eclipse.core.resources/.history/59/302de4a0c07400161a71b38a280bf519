@@ -1,0 +1,22 @@
+/**
+ * 
+ */
+
+/**
+ * @author APCS1 Silvia Zou
+ *
+ */
+public class DoMath {
+	public static void main(String[] Args){
+		int num = 5;
+		System.out.println(Calculate.square(5));
+		System.out.println(Calculate.cube(num));
+		System.out.println(Calculate.average(num)));
+		System.out.println(Calculate.toDegrees(num));
+		System.out.println(Calculate.toRadians(num));
+		System.out.println(Calculate.discriminant(num));
+		System.out.println(Calculate.toImproperFrac(num));
+		System.out.println(Calculate.toMixedNum(num));
+		System.out.println(Calculate.foil(num));
+	}
+}
