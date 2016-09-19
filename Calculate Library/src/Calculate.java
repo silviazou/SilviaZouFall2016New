@@ -95,7 +95,7 @@ public class Calculate {
 		}
 	}
 	public static double round2(double integer){
-		//how to do D:
+		//how to do?
 	}
 	
 	
