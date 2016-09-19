@@ -1,0 +1,15 @@
+/**
+ * 
+ */
+
+/**
+ * @author Silvia Zou APCS1
+ *
+ */
+public class TempConvert {
+	public static void main(String[] args){
+		int fahrenheit = 32;
+		double celsius = (fahrenheit - 32) * (5/9);
+		System.out.println(celsius);
+	}
+}
