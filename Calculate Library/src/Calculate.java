@@ -71,33 +71,72 @@ public class Calculate {
 			return integer;
 		}
 	}
-	public static boolean max(int numOne, int numTwo){
-		//Return a boolean?
+	public static int max(int numOne, int numTwo){
 		if(numOne > numTwo){
-			return true;
+			return numOne;
 		}else{
-			return false;
+			return numTwo;
 		}
 	}
-	public static boolean max(int numOne, int numTwo, int numThree){
-		//Return a boolean?
+	public static int max(int numOne, int numTwo, int numThree){
 		if(numOne > numTwo && numOne > numThree){
-			return true;
+			return numOne;
 		}else if(numThree > numTwo && numThree > numOne) {
-			return false;
+			return numTwo;
 		}else{
-			return true;
+			return numThree;
 		}
 	}
-	public static boolean min(int numOne, int numTwo){
-		//return a boolean?
+	public static int min(int numOne, int numTwo){
 		if(numOne < numTwo){
-			return true;
+			return numOne;
 		}else{
-			return false;
+			return numTwo;
 		}
 	}
 	public static double round2(double integer){
 		//how to do D:
 	}
+	
+	
+	
+	//Part Three
+	
+	
+	
+	public static double exponent(double number, int exponent){
+		double solution = number;
+		for(int i = 1 ; i < exponent; i++ ){
+			solution = solution * number; 
+		}
+		return solution;
+	}
+	public static int factorial(int number){
+		int factorial = number;
+		for(int i = number - 1; i > 0; i--){
+			factorial = factorial* i;
+		}
+		return factorial;
+	}
+	public static boolean isPrime(int number){
+		for(int i = 2; i < number; i++){
+			boolean divisible = isDivisibleBy(number, i);
+			if(divisible){
+				return false;
+			}
+		}
+		return true;
+	}
+	public static int gcf(int numOne,int numTwo){
+		int gcfactor = 0;
+		int largerNum = max(numOne, numTwo);
+		for(int i = 2; i < largerNum; i++){
+			if(numOne % i == 0 && numTwo % i == 0){
+				gcfactor = i;
+			}
+		}
+		return gcfactor;
+	}
+	
 }
+
