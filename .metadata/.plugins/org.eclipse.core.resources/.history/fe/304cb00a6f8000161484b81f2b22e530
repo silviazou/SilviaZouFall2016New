@@ -154,8 +154,8 @@ public class Calculate {
 			t = squareRoot;
 			squareRoot = (t + (number / t)) / 2;
 	  }
-	double rounded = round2(squareRoot);
-	return rounded;
+	 
+		return squareRoot;
 	}
 }
 

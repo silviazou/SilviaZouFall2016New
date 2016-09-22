@@ -147,15 +147,7 @@ public class Calculate {
 		return gcfactor;
 	}
 	public static double sqrt(double number){
-		double squareRoot = number / 2;
-		double t = 0;
-		 
-	  while ((t - squareRoot) != 0){
-			t = squareRoot;
-			squareRoot = (t + (number / t)) / 2;
-	  }
-	double rounded = round2(squareRoot);
-	return rounded;
+		//how to do
 	}
 }
 
