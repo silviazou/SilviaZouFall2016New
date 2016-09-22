@@ -28,9 +28,8 @@ public class Calculate {
 		return (angle * pie) / 180;
 	}
 	public static double discriminant(double a, double b, double c){
-		//does x have a value?
-		int x = 1;
-		return  (c - (a*x))/b;
+		double answer = (b*b) - 4*a*c;
+	    return answer;
 	}
 	public static String toImproperFrac(int wholeNum, int numerator, int denominator){
 		int newNumerator = wholeNum * denominator + numerator;
@@ -95,7 +94,17 @@ public class Calculate {
 		}
 	}
 	public static double round2(double integer){
-		//how to do?
+		integer = integer * 1000;
+		int asInt = (int) integer;
+		if(asInt % 10 < 5){
+			asInt = asInt / 10;
+			double asDouble = (double)asInt;
+			return asDouble/100;
+		}
+		asInt = asInt / 10;
+		double asDouble = (double)asInt;
+		return (asDouble + 1)/100;
+
 	}
 	
 	
@@ -137,6 +146,8 @@ public class Calculate {
 		}
 		return gcfactor;
 	}
-	
+	public static double sqrt(double number){
+		//how to do
+	}
 }
 
