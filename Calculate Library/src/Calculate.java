@@ -150,12 +150,33 @@ public class Calculate {
 		double squareRoot = number / 2;
 		double t = 0;
 		 
-	  while ((t - squareRoot) != 0){
+		while ((t - squareRoot) != 0){
 			t = squareRoot;
 			squareRoot = (t + (number / t)) / 2;
-	  }
-	double rounded = round2(squareRoot);
-	return rounded;
+		}
+		double rounded = round2(squareRoot);
+		return rounded;
+	}
+	
+	
+	
+	//Part 4
+	
+	
+
+	public static String quadForm(int a, int b, int c){
+		double discriminant = discriminant(a, b, c);
+		if (discriminant < 0){
+			return("no real roots");
+		}else{
+			double solutionOne = round2((-b - sqrt(discriminant))/(2 * a));
+			double solutionTwo = round2((-b + sqrt(discriminant))/(2 * a));
+			if(solutionOne == solutionTwo){
+				return(solutionOne + " ");
+			}else{
+				return(solutionOne + " " + solutionTwo);
+			}
+		}
 	}
 }
 
