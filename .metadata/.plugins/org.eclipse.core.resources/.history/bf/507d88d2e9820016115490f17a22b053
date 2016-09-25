@@ -54,14 +54,11 @@ public class Calculate {
 	
 	
 	public static boolean isDivisibleBy(int numOne, int numTwo){
-		if(numOne != 0 || numTwo != 0){
-			if(numOne % numTwo == 0){
-				return true;
-			}else{
-				return false;
-			}
+		if(numOne % numTwo == 0){
+			return true;
+		}else{
+			return false;
 		}
-		throw new IllegalArgumentException();
 	}
 	public static double absValue(double integer){
 		if(integer < 0){
@@ -95,10 +92,8 @@ public class Calculate {
 		integer = integer * 1000;
 		int asInt = (int) integer;
 		if(asInt % 10 < 5){
-			asInt = asInt / 10;
-			return (double)asInt /100;
+			return (double)asInt /1000;
 		}
-		asInt = asInt / 10;
 		return ((double)asInt/10 + 1) /100;
 
 	}
@@ -111,26 +106,17 @@ public class Calculate {
 	
 	public static double exponent(double number, int exponent){
 		double solution = number;
-		if(exponent > 0){
-			if(exponent != 0){
-			for(int i = 1 ; i < exponent; i++ ){
-				solution = solution * number; 
-			}
-				return solution;
-			}
-			return 1;
+		for(int i = 1 ; i < exponent; i++ ){
+			solution = solution * number; 
 		}
-		throw new IllegalArgumentException();
+		return solution;
 	}
 	public static int factorial(int number){
-		if(number < 0){
-			int factorial = number;
-			for(int i = number - 1; i > 0; i--){
-				factorial = factorial* i;
-			}
-			return factorial;
+		int factorial = number;
+		for(int i = number - 1; i > 0; i--){
+			factorial = factorial* i;
 		}
-		throw new IllegalArgumentException();
+		return factorial;
 	}
 	public static boolean isPrime(int number){
 		for(int i = 2; i < number; i++){
@@ -152,19 +138,15 @@ public class Calculate {
 		return gcfactor;
 	}
 	public static double sqrt(double number){
-		if(number >=
-				0){
-			double squareRoot = number / 2;
-			double t = 0;
-			 
-			while ((t - squareRoot) != 0){
-				t = squareRoot;
-				squareRoot = (t + (number / t)) / 2;
-			}
-			double rounded = round2(squareRoot);
-			return rounded;
+		double squareRoot = number / 2;
+		double t = 0;
+		 
+		while ((t - squareRoot) != 0){
+			t = squareRoot;
+			squareRoot = (t + (number / t)) / 2;
 		}
-		throw new IllegalArgumentException();
+		double rounded = round2(squareRoot);
+		return rounded;
 	}
 	
 	

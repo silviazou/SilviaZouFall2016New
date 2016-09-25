@@ -152,8 +152,7 @@ public class Calculate {
 		return gcfactor;
 	}
 	public static double sqrt(double number){
-		if(number >=
-				0){
+		if(number <= 0){
 			double squareRoot = number / 2;
 			double t = 0;
 			 
