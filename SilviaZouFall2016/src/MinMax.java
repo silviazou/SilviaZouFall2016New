@@ -15,10 +15,10 @@ public class MinMax {
 				min = userInput;
 			}
 			if(userInput % 2 == 0){
-				System.out.println((counter += userInput) + min + max);
+				counter += userInput;	
 			}
+			System.out.println(counter + min + max);
 			initialInput.close();
 		}
-		
 	}
 }

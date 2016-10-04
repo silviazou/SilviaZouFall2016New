@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
+	<item value="false" key="TypeHierarchyViewPart.qualifiednames"/>
+	<item value="3" key="TypeHierarchyViewPart.orientation"/>
+	<item value="false" key="TypeHierarchyViewPart.linkeditors"/>
+	<item value="2" key="TypeHierarchyViewPart.hierarchyview"/>
 	<section name="FatJarPackageWizard">
 		<item value="C:\Users\silvi\OneDrive\Documents\GitHub\SilviaZouFall2016New" key="FatJarPackageWizardPage.ANTSCRIPT_LOCATION"/>
 		<item value="TempConvert - SilviaZouFall2016" key="FatJarPackageWizardPage.LAUNCH_CONFIGURATION_SELECTION_NAME"/>

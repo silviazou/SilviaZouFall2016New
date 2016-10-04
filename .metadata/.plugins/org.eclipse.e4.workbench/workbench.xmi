@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="ASCII"?>
 <application:Application xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:advanced="http://www.eclipse.org/ui/2010/UIModel/application/ui/advanced" xmlns:application="http://www.eclipse.org/ui/2010/UIModel/application" xmlns:basic="http://www.eclipse.org/ui/2010/UIModel/application/ui/basic" xmlns:menu="http://www.eclipse.org/ui/2010/UIModel/application/ui/menu" xmi:id="_ggXKoILoEeaf98zMVDi6Bw" elementId="org.eclipse.e4.legacy.ide.application" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_ggXKoYLoEeaf98zMVDi6Bw" bindingContexts="_ggYY2ILoEeaf98zMVDi6Bw">
-  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workbench>&#xD;&#xA;&lt;mruList>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;MinMax.java&quot; tooltip=&quot;SilviaZouFall2016/src/MinMax.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/SilviaZouFall2016/src/MinMax.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Calculate.java&quot; tooltip=&quot;Calculate Library/src/Calculate.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Calculate Library/src/Calculate.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;DoMath.java&quot; tooltip=&quot;Access Calculate/src/DoMath.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Access Calculate/src/DoMath.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;TempConvert.java&quot; tooltip=&quot;SilviaZouFall2016/src/TempConvert.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/SilviaZouFall2016/src/TempConvert.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;/mruList>&#xD;&#xA;&lt;/workbench>"/>
+  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workbench>&#xD;&#xA;&lt;mruList>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;MinMax.java&quot; tooltip=&quot;SilviaZouFall2016/src/MinMax.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/SilviaZouFall2016/src/MinMax.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;MinMax2.java&quot; tooltip=&quot;SilviaZouFall2016/src/MinMax2.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/SilviaZouFall2016/src/MinMax2.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;TempConvert.java&quot; tooltip=&quot;SilviaZouFall2016/src/TempConvert.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/SilviaZouFall2016/src/TempConvert.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;DoMath.java&quot; tooltip=&quot;Access Calculate/src/DoMath.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Access Calculate/src/DoMath.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Calculate.java&quot; tooltip=&quot;Calculate Library/src/Calculate.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Calculate Library/src/Calculate.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;/mruList>&#xD;&#xA;&lt;/workbench>"/>
   <tags>activeSchemeId:org.eclipse.ui.defaultAcceleratorConfiguration</tags>
   <tags>ModelMigrationProcessor.001</tags>
-  <children xsi:type="basic:TrimmedWindow" xmi:id="_ggXKoYLoEeaf98zMVDi6Bw" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_ggXKooLoEeaf98zMVDi6Bw" label="%trimmedwindow.label.eclipseSDK" x="307" y="114" width="1024" height="768">
+  <children xsi:type="basic:TrimmedWindow" xmi:id="_ggXKoYLoEeaf98zMVDi6Bw" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_ggXKooLoEeaf98zMVDi6Bw" label="%trimmedwindow.label.eclipseSDK" x="0" y="0" width="1024" height="768">
     <persistedState key="coolBarVisible" value="true"/>
     <persistedState key="perspectiveBarVisible" value="true"/>
     <persistedState key="isRestored" value="true"/>
@@ -76,7 +76,7 @@
               <children xsi:type="basic:PartStack" xmi:id="_ggXKp4LoEeaf98zMVDi6Bw" elementId="left" containerData="6000" selectedElement="_ggXKqILoEeaf98zMVDi6Bw">
                 <tags>org.eclipse.e4.primaryNavigationStack</tags>
                 <children xsi:type="advanced:Placeholder" xmi:id="_ggXKqILoEeaf98zMVDi6Bw" elementId="org.eclipse.jdt.ui.PackageExplorer" ref="_ggXMSILoEeaf98zMVDi6Bw"/>
-                <children xsi:type="advanced:Placeholder" xmi:id="_ggXKqYLoEeaf98zMVDi6Bw" elementId="org.eclipse.jdt.ui.TypeHierarchy" toBeRendered="false" ref="_ggXxuoLoEeaf98zMVDi6Bw"/>
+                <children xsi:type="advanced:Placeholder" xmi:id="_ggXKqYLoEeaf98zMVDi6Bw" elementId="org.eclipse.jdt.ui.TypeHierarchy" ref="_ggXxuoLoEeaf98zMVDi6Bw"/>
                 <children xsi:type="advanced:Placeholder" xmi:id="_ggXKqoLoEeaf98zMVDi6Bw" elementId="org.eclipse.ui.views.ResourceNavigator" toBeRendered="false" ref="_ggXxu4LoEeaf98zMVDi6Bw"/>
                 <children xsi:type="advanced:Placeholder" xmi:id="_ggXKq4LoEeaf98zMVDi6Bw" elementId="org.eclipse.ui.navigator.ProjectExplorer" toBeRendered="false" ref="_ggXxvILoEeaf98zMVDi6Bw"/>
                 <children xsi:type="advanced:Placeholder" xmi:id="_ggXKrILoEeaf98zMVDi6Bw" elementId="org.eclipse.jdt.junit.ResultView" toBeRendered="false" ref="_ggXyB4LoEeaf98zMVDi6Bw"/>
@@ -146,12 +146,12 @@
       <tags>categoryTag:Help</tags>
     </sharedElements>
     <sharedElements xsi:type="advanced:Area" xmi:id="_ggXL54LoEeaf98zMVDi6Bw" elementId="org.eclipse.ui.editorss" selectedElement="_ggXL6ILoEeaf98zMVDi6Bw">
-      <children xsi:type="basic:PartStack" xmi:id="_ggXL6ILoEeaf98zMVDi6Bw" elementId="org.eclipse.e4.primaryDataStack" selectedElement="_cHXFkIk0EeaFT6EzXr-ZSQ">
+      <children xsi:type="basic:PartStack" xmi:id="_ggXL6ILoEeaf98zMVDi6Bw" elementId="org.eclipse.e4.primaryDataStack" selectedElement="_Ehet0IpPEeaOZ6T1IxJxRw">
         <tags>org.eclipse.e4.primaryDataStack</tags>
         <tags>EditorStack</tags>
         <tags>active</tags>
-        <children xsi:type="basic:Part" xmi:id="_cHXFkIk0EeaFT6EzXr-ZSQ" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="MinMax.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;MinMax.java&quot; partName=&quot;MinMax.java&quot; title=&quot;MinMax.java&quot; tooltip=&quot;SilviaZouFall2016/src/MinMax.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/SilviaZouFall2016/src/MinMax.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;123&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
+        <children xsi:type="basic:Part" xmi:id="_Ehet0IpPEeaOZ6T1IxJxRw" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="MinMax.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;MinMax.java&quot; partName=&quot;MinMax.java&quot; title=&quot;MinMax.java&quot; tooltip=&quot;SilviaZouFall2016/src/MinMax.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/SilviaZouFall2016/src/MinMax.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;0&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
           <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
           <tags>removeOnHide</tags>
@@ -191,8 +191,14 @@
     <sharedElements xsi:type="basic:Part" xmi:id="_ggXxuoLoEeaf98zMVDi6Bw" elementId="org.eclipse.jdt.ui.TypeHierarchy" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Type Hierarchy" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/eview16/class_hi.png" tooltip="" closeable="true">
       <persistedState key="originalCompatibilityViewClass" value="org.eclipse.jdt.internal.ui.typehierarchy.TypeHierarchyViewPart"/>
       <persistedState key="originalCompatibilityViewBundle" value="org.eclipse.jdt.ui"/>
+      <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view hidefields=&quot;false&quot; hidelocaltypes=&quot;false&quot; hidenonpublic=&quot;false&quot; hidestatic=&quot;false&quot; input=&quot;=SilviaZouFall2016/src&amp;lt;{MinMax.java[MinMax&quot; link_editors=&quot;0&quot; mv_vertical_scroll=&quot;0&quot; orientation=&quot;3&quot; qualified_names=&quot;0&quot; ratio=&quot;350&quot; selection=&quot;=SilviaZouFall2016/src&amp;lt;{MinMax.java[MinMax&quot; showinherited=&quot;false&quot; sortbydefiningtype=&quot;false&quot; vertical_scroll=&quot;0&quot; view=&quot;2&quot; workingSetName=&quot;Aggregate for window 1473145088437&quot;/>"/>
       <tags>View</tags>
       <tags>categoryTag:Java</tags>
+      <menus xmi:id="_9Jm90IpNEeaOZ6T1IxJxRw" elementId="org.eclipse.jdt.ui.TypeHierarchy">
+        <tags>ViewMenu</tags>
+        <tags>menuContribution:menu</tags>
+      </menus>
+      <toolbar xmi:id="_9Jm90YpNEeaOZ6T1IxJxRw" elementId="org.eclipse.jdt.ui.TypeHierarchy" visible="false"/>
     </sharedElements>
     <sharedElements xsi:type="basic:Part" xmi:id="_ggXxu4LoEeaf98zMVDi6Bw" elementId="org.eclipse.ui.views.ResourceNavigator" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Navigator" iconURI="platform:/plugin/org.eclipse.ui.ide/icons/full/eview16/filenav_nav.png" tooltip="" closeable="true">
       <persistedState key="originalCompatibilityViewClass" value="org.eclipse.ui.views.navigator.ResourceNavigator"/>
@@ -436,7 +442,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_ggXyPILoEeaf98zMVDi6Bw" elementId="org.eclipse.ui.workbench.file">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_PLDnMIk0EeaFT6EzXr-ZSQ" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_ggZpfoLoEeaf98zMVDi6Bw"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_bLEx4IpEEeaOZ6T1IxJxRw" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_ggZpfoLoEeaf98zMVDi6Bw"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_ggXySYLoEeaf98zMVDi6Bw" elementId="additions" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -460,7 +466,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_ggXyloLoEeaf98zMVDi6Bw" elementId="org.eclipse.ui.workbench.navigate">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_PLVUAIk0EeaFT6EzXr-ZSQ" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_ggZo9YLoEeaf98zMVDi6Bw"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_bLOi4IpEEeaOZ6T1IxJxRw" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_ggZo9YLoEeaf98zMVDi6Bw"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_ggXyoYLoEeaf98zMVDi6Bw" elementId="group.editor" toBeRendered="false">
         <tags>toolbarSeparator</tags>
